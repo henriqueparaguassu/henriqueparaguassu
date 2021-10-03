@@ -9,7 +9,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueparaguassu&langs_count=6&layout=compact&theme=midnight-purple"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github.com/henriqueparaguassu/henriqueparaguassu/blob/output/github-contribution-grid-snake.svg"/>
-</div>
