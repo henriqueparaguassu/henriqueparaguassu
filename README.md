@@ -7,7 +7,10 @@
 
 <div>
   <a href="https://github.com/henriqueparaguassu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueparaguassu&langs_count=6"/>
+    <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueparaguassu&langs_count=6"/>
+  </a>
+  <a href="https://app.daily.dev/henriqueparagua">
+    <img height="380em" src="https://api.daily.dev/devcards/7493e282e8ec47e3919b45f9ae7d3e60.png?r=fhu" alt="Henrique Paraguassú's Dev Card"/>
   </a>
 </div>
 
