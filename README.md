@@ -29,6 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-05122A?style=flat&logo=ubuntu)&nbsp;
+![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-05122A?style=flat&logo=fedora)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
   
 
